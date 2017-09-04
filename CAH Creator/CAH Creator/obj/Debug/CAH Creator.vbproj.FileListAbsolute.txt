@@ -20,3 +20,14 @@ C:\Users\anthonyv\Documents\Visual Studio 2015\Projects\CAH Creator\CAH Creator\
 C:\Users\anthonyv\Documents\Visual Studio 2015\Projects\CAH Creator\CAH Creator\obj\Debug\CAH_Creator.Form1.resources
 C:\Users\anthonyv\Documents\Visual Studio 2015\Projects\CAH Creator\CAH Creator\obj\Debug\CAH_Creator.Resources.resources
 C:\Users\anthonyv\Documents\Visual Studio 2015\Projects\CAH Creator\CAH Creator\obj\Debug\CAH Creator.vbproj.GenerateResource.Cache
+C:\GitHub\CAH-Card-Creator\CAH Creator\CAH Creator\bin\Debug\CAH Creator.exe.config
+C:\GitHub\CAH-Card-Creator\CAH Creator\CAH Creator\bin\Debug\CAH Creator.exe
+C:\GitHub\CAH-Card-Creator\CAH Creator\CAH Creator\bin\Debug\CAH Creator.pdb
+C:\GitHub\CAH-Card-Creator\CAH Creator\CAH Creator\bin\Debug\CAH Creator.xml
+C:\GitHub\CAH-Card-Creator\CAH Creator\CAH Creator\obj\Debug\CAH Creator.vbprojResolveAssemblyReference.cache
+C:\GitHub\CAH-Card-Creator\CAH Creator\CAH Creator\obj\Debug\CAH_Creator.Form1.resources
+C:\GitHub\CAH-Card-Creator\CAH Creator\CAH Creator\obj\Debug\CAH_Creator.Resources.resources
+C:\GitHub\CAH-Card-Creator\CAH Creator\CAH Creator\obj\Debug\CAH Creator.vbproj.GenerateResource.Cache
+C:\GitHub\CAH-Card-Creator\CAH Creator\CAH Creator\obj\Debug\CAH Creator.exe
+C:\GitHub\CAH-Card-Creator\CAH Creator\CAH Creator\obj\Debug\CAH Creator.xml
+C:\GitHub\CAH-Card-Creator\CAH Creator\CAH Creator\obj\Debug\CAH Creator.pdb
